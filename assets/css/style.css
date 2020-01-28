@@ -1,0 +1,62 @@
+.container-css {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.w90 {
+    width: 90%;
+}
+
+.calculator {
+    height: 30rem;
+    border-radius: 0.5rem;
+    background-color: #8dc9a7;
+    box-shadow: 6px 5px 7px;
+}
+.reset-button a{
+    color: black ;
+}
+
+.screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    background-color: #d7e4e9;
+    height: 5rem;
+    margin-top: 2rem;
+    border-radius: 0.5rem;
+}
+
+.key-area {
+    width: 90%;
+    height: 12rem;
+    margin-top: 2rem;
+    border-radius: 0.3rem;
+}
+
+.css-field-operation {
+    border: none;
+}
+.h25{
+    height: 25%;
+}
+.key-css {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2b4750;
+    color: white;
+    border: none;
+}
+
+.key2-css {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #c14836;
+    color: white;
+    border: none;
+}
